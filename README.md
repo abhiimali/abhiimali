@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **JS React JS Data Structures And Algos **
+- 💬 Ask me about  **JS React JS Data Structures And Algos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
