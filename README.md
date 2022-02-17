@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhijit Mali</h1>
 <h3 align="center">I am a Full Stack Web Developer And Independent Security Researcher</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **JS React JS Data Structure And Algos**
+- 💬 Ask me about **JS React JS Data Structures And Algos **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
