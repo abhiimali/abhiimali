@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [abhiimali.github.io](abhiimali.github.io)
 
-- 💬 Ask me about **DSA & MERN Stack**
+- 💬 Ask me about **DSA & Backend Development**
 
 - 📫 How to reach me **maliabhijit183@gmail.com**
 
